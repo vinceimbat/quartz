@@ -5,7 +5,8 @@ location:
   - 14.166778186315714
   - 121.23771860837516
 aliases:
-  - poems/ang-huli
+  - /poems/ang-huli
+  - /ang-huli
 tags:
   - poems
   - filipino

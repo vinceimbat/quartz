@@ -3,6 +3,7 @@ title: Sa Madamba
 date: 2023-04-11
 aliases:
   - poems/sa-madamba
+  - https://vinceimbat.com/sa-madamba
 location:
   - 14.15649448960029
   - 121.24302695438428

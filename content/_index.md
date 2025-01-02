@@ -1,5 +1,5 @@
 ---
-title: "Vince Imbat"
+title: 
 enableToc: false
 aliases:
   - talahardin
